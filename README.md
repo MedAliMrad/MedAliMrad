@@ -1,48 +1,52 @@
-# Hi, I'm Mohamed Ali 👋
+# Hi, I'm Mohamed Ali Mrad 👋
 
- Second-year Software Engineering student at ENICarthage  
- Exploring AI/ML, DevOps & Web Dev  
- Lifelong learner building creative projects  
+**Second-year Software Engineering Student at ENICarthage**  
+Passionate about AI/ML, DevOps & Full-Stack Development · Lifelong learner building creative projects
 
----
-
-## Skills
-
-**Languages:** <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-
-**Frontend:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> 
-
-**Backend / Full-Stack:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> 
-
-**Databases:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40"/> 
-
-**DevOps / Tools:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<p>
+  <a href="https://www.linkedin.com/in/mohamed-ali-mrad"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:mohamedalimrad03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://mohamed-ali-mrad.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+  <a href="https://github.com/MedAliMrad"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
 
 ---
 
-## Connect with Me
+## 🧑‍💻 About Me
 
-[LinkedIn](https://www.linkedin.com/in/mohamed-ali-mrad)
+- 🎓 Studying **Software Engineering** at ENICarthage
+- 🤖 Building RAG-based AI projects & working with LLMs
+- 🚀 Hands-on with **CI/CD pipelines** and cloud deployments
+- 🏛️ Vice-President @ **Microsoft Tech Club ENICarthage**
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java" />
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,angular" />
+
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,graphql" />
+
+**Databases**  
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" height="48"/>
+
+**DevOps & Tools**  
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,grafana" />
+
+**AI & Data**  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,matplotlib" height="48"/>
+---
+
+## 🤝 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/mohamed-ali-mrad"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:mohamedalimrad03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://mohamed-ali-mrad.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+  <a href="https://github.com/MedAliMrad"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
