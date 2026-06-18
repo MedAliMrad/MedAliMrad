@@ -1,8 +1,7 @@
 # Hi, I'm Mohamed Ali Mrad 👋
 
 **Second-year Software Engineering Student at ENICarthage**  
-Passionate about AI/ML, DevOps & Full-Stack Development · Lifelong learner building creative projects
-
+Full-Stack Developer • AI Enthusiast • DevOps Learner
 <p>
   <a href="https://www.linkedin.com/in/mohamed-ali-mrad"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:mohamedalimrad03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
